@@ -1,0 +1,14 @@
+{
+  "name": "Grunt Base Frontend",
+  "version": "0.0.0",
+  "authors": [
+    "Berit Haak <berit@work.de>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+  }
+}
